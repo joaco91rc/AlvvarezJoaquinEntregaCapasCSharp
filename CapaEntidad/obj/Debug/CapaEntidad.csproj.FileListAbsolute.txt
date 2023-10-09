@@ -1,0 +1,8 @@
+C:\Users\jaalvarez\Documents\Joaco\CoderHouse\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\jaalvarez\Documents\Joaco\CoderHouse\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\jaalvarez\Documents\Joaco\CoderHouse\CapaEntidad\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jaalvarez\Documents\Joaco\CoderHouse\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\jaalvarez\Documents\Joaco\CoderHouse\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\jaalvarez\Documents\Joaco\CoderHouse\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\jaalvarez\Documents\Joaco\CoderHouse\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\jaalvarez\Documents\Joaco\CoderHouse\CapaEntidad\obj\Debug\CapaEntidad.pdb
